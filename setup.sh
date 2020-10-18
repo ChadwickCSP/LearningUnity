@@ -14,7 +14,7 @@ echo "Running setup!"
 set -e
 touch "$ROOT/.setup-date"
 cp "$ROOT/util/pre-commit" "$ROOT/.git/hooks/"
-cp "$ROOT/util/pre-commit" "$ROOT/.git/hooks/"
+cp "$ROOT/util/pre-commit-warning.txt" "$ROOT/.git/hooks/"
 git config commit.template "$ROOT/setup/commit-template"
 git commit --allow-empty -m "Ran setup."
 cat util/setup-complete.txt
