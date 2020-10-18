@@ -16,3 +16,5 @@ touch "$ROOT/.setup-date"
 cp "$ROOT/util/pre-commit" "$ROOT/.git/hooks/"
 cp "$ROOT/util/pre-commit" "$ROOT/.git/hooks/"
 git config commit.template "$ROOT/setup/commit-template"
+
+cat util/setup-complete.txt
