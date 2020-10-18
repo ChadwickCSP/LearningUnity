@@ -49,4 +49,14 @@ This will download the `Unity Download Assistant`. If you're prompted to select 
 
 You do not need to select any other components. However, you may wish to select Linux, Mac, WebGL, and Windows Build support if you wish to export as an executable. Note: You may install these components at a later time if you wish.
 
+### Add Unity Install to Unity Hub
 
+Next, you will need to add the install to Unity Hub. In Unity Hub, select `Installs` from the left menu. Then, click the `Locate` button. Navigate to the version of Unity that was installed and click `Select Editor`. You should now see the version of Unity you installed listed in Unity Hub.
+
+![Add Install](README/AddInstall.png)
+
+After you've located your installed Unity
+
+![Installed](README/Installed.png)
+
+Now you're ready to begin using Unity.
