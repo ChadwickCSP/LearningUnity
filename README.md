@@ -6,6 +6,53 @@ In this project, you will first learn the basics of Unity by completing a
 Driving Simulator. Then, you will apply what you learned while creating that
 driving simulator to fix and implement a Flying Simulator.
 
+
+## Setup your repository
+
+Sign up for the project repository here: [https://classroom.github.com/a/7-x3M_UO](https://classroom.github.com/a/7-x3M_UO)
+
+After your repository has initialized it, clone it to your computer. I recommend putting it in your `ap-csp` directory.
+
+After you've cloned your repository, run the `setup.sh` script in the root of that repository to initialize it's configuration.
+
+Upon completion it should display a message similar to this one:
+
+```
+######################################################
+# SETUP IS COMPLETE. YOU SHOULD NOW CREATE A         #
+# `develop` BRANCH BY RUNNING THE FOLLOWING COMMAND: #
+#                                                    #
+# git checkout -b develop                            #
+#                                                    #
+# THEN PUSH THAT BRANCH TO GITHUB BY RUNNING THE     #
+# FOLLOWING COMMAND:                                 #
+#                                                    #
+# git push -u origin develop                         #
+#                                                    #
+# AFTER PUSHING, OPEN A PULL REQUEST FROM YOUR       #
+# `develop`  BRANCH TO THE `main` BRANCH BY VISITING #
+# THIS REPO ON GITHUB, CLICKING `Pull Requests`      #
+# THEN `New pull request`. THE BASE BRANCH SHOULD BE #
+# `main` and THE COMPARE BRANCH SHOULD BE `develop`. #
+#                                                    #
+# FINALLY, ADD YOUR INSTRUCTOR AS A REVIEWER ON      #
+# GITHUB. THIS IS HOW YOUR INSTRUCTOR WILL SEE YOUR  #
+# WORK.                                              #
+######################################################
+```
+
+Follow the directions to create a `develop` branch as well as pushing your `develop` branch to Github.
+
+Finally, create a pull request from your `develop` branch to the `main` branch and assign `jcollard` as a reviewer.
+
+![README/PullRequests.png](README/PullRequests.png)
+
+![README/NewPullRequest.png](README/NewPullRequest.png)
+
+![README/NewPullRequest.png](README/SetDevelop.png)
+
+![README/SetReviewer.png](README/SetReviewer.png)
+
 ## Setting up Unity
 
 ### Create a Unity Account
@@ -60,3 +107,5 @@ After you've located your installed Unity
 ![Installed](README/Installed.png)
 
 Now you're ready to begin using Unity.
+
+## Driving Simulator
