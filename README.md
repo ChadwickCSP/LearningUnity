@@ -84,7 +84,7 @@ and assign `jcollard` as a reviewer.
 
 ![README/NewPullRequest.png](README/NewPullRequest.png)
 
-![README/NewPullRequest.png](README/SetDevelop.png)
+![README/SetDevelop.png](README/SetDevelop.png)
 
 ![README/SetReviewer.png](README/SetReviewer.png)
 
@@ -350,8 +350,7 @@ repository, created a script and committed it to your repository.
 
 All code that you would like to count toward your evaluation should be part of a
 `tag` on in your repository called `milestone-1`. This can be created by running
-`git tag milestone-1`. The date of this tag creation will be used to determine
-when your work was submitted. 
+`git tag milestone-1`. Then push your tag to your repository by running `git push -u origin milestone-1`. The date of this tag creation will be used to determine when your work was submitted.
 
 
 ### Milestone 2
@@ -365,8 +364,7 @@ Your source code should be committed and pushed to your repository by this time.
 
 All code that you would like to count toward your evaluation should be part of a
 `tag` on in your repository called `milestone-2`. This can be created by running
-`git tag milestone-2`. The date of this tag creation will be used to determine
-when your work was submitted. 
+`git tag milestone-2`. Then push your tag to your repository by running `git push -u origin milestone-2`. The date of this tag creation will be used to determine when your work was submitted.
 
 ### Milestone 3
 
@@ -376,8 +374,7 @@ Due Date: Monday November 2nd @ 8AM
 
 Your completed Challenge is due at this time. All code that you would like to
 count toward your evaluation should be part of a `tag` on in your repository
-called `milestone-3`. This can be created by running `git tag milestone-3`. The
-date of this tag creation will be used to determine when your work was
+called `milestone-3`. This can be created by running `git tag milestone-3`. Then push your tag to your repository by running `git push -u origin milestone-2`. The date of this tag creation will be used to determine when your work was submitted.
 submitted. 
 
 ## Grading
