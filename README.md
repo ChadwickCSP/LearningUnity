@@ -6,6 +6,30 @@ In this project, you will first learn the basics of Unity by completing a
 Driving Simulator. Then, you will apply what you learned while creating that
 driving simulator to fix and implement a Flying Simulator.
 
+* Setup your repository
+  * Sign up for the project
+  * Setup Git LFS
+* Setting up Unity
+  * Create a Unity Account
+  * Download Unity Hub
+  * Create a License
+  * Install Unity
+  * Add Unity to Unity Hub
+* Driving Simulator
+  * Import Driving Simulator
+  * Configure VS Code for Unity
+  * Ed Puzzles
+* Airplane Challenge
+  * Known Bugs
+  * Hints
+  * Adding Extra Features
+* Milestones
+  * Milestone 1
+  * Milestone 2
+  * Milestone 3
+* Grading
+* [Getting Help]
+
 ## Setup your repository
 
 ### Sign up for Project
@@ -392,3 +416,27 @@ when able.
 | Manages time well in class, stays focused on work  at hand at all times            | Focuses on work in class     | Focuses at times, can get distracted                     | Uses class time poorly, is frequently distracted     |
 | Meets all deadlines, on or ahead of schedule                                       | Meets deadlines              | Delivers close to deadline, may be late  by a day or two | Delivers work late or not at all                     |
 | Advocates for self, seeks clarification when needed  and volunteers to help others | Seeks assistance when needed | Needs prompting to seek assistance                       | Does not seek assistance or ask for help when needed |
+
+## Getting Help
+
+All questions should be posted to the class Piazza board. You are also
+encouraged to help other students who post on Piazza. When you post your
+question, be sure to include as many details as possible for reproducing the
+issue you're having.
+
+Questions you should answer when asking a question include:
+
+1. What are you trying to do?
+2. What did you try?
+3. What was the result?
+
+Work hard to make sure the person trying to answer your question can reproduce
+your error. Share your files so others can run exactly what you're running.
+
+Also, include screenshot!
+
+Formulating good questions is a good life long skill. You should try asking your
+question on Piazza before seeking out synchronous time with Mx. Collard.
+However, if you would like to meet to discuss synchronously, first, look at [Mx.
+Collard's Calendar](http://tinyurl.com/mx-collard-calendar), then send them an
+email with at least two proposed times you would like to meet.
