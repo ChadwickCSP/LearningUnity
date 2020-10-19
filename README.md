@@ -28,7 +28,7 @@ driving simulator to fix and implement a Flying Simulator.
   * Milestone 2
   * Milestone 3
 * Grading
-* [Getting Help]
+* Getting Help
 
 ## Setup your repository
 
