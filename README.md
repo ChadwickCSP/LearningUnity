@@ -38,7 +38,7 @@ driving simulator to fix and implement a Flying Simulator.
 ### Sign up for Project
 
 Sign up for the project repository here:
-[https://classroom.github.com/a/7-x3M_UO](https://classroom.github.com/a/7-x3M_UO)
+[https://classroom.github.com/a/bfecw3MF](https://classroom.github.com/a/bfecw3MF)
 
 The Game Dev Piazza is here: [piazza.com/chadwickschool.org/fall2020/bdf3](piazza.com/chadwickschool.org/fall2020/bdf3)
 
