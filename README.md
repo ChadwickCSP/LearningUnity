@@ -6,29 +6,32 @@ In this project, you will first learn the basics of Unity by completing a
 Driving Simulator. Then, you will apply what you learned while creating that
 driving simulator to fix and implement a Flying Simulator.
 
-* Setup your repository
-  * Sign up for the project
-  * Setup Git LFS
-* Setting up Unity
-  * Create a Unity Account
-  * Download Unity Hub
-  * Create a License
-  * Install Unity
-  * Add Unity to Unity Hub
-* Driving Simulator
-  * Import Driving Simulator
-  * Configure VS Code for Unity
-  * Ed Puzzles
-* Airplane Challenge
-  * Known Bugs
-  * Hints
-  * Adding Extra Features
-* Milestones
-  * Milestone 1
-  * Milestone 2
-  * Milestone 3
-* Grading
-* Getting Help
+* [Setup your repository](#setup-your-repository)
+  * [Sign up for the project](#sign-up-for-project)
+  * [Setup Git LFS](#setup-git-lfs)
+* [Setting up Unity](#setting-up-unity)
+  * [Create a Unity Account](#create-a-unity-account)
+  * [Download Unity Hub](#download-unity-hub)
+  * [Create a License](#login-to-unity-hub-and-create-a-license)
+  * [Install Unity](#download-and-install-unity)
+  * [Add Unity to Unity Hub](#add-unity-install-to-unity-hub)
+* [Driving Simulator](#driving-simulator)
+  * [Import Driving Simulator](#import-driving-simulator-project)
+  * [Configure VS Code for Unity](#configure-vs-code-for-unity)
+  * [Ed Puzzles](#ed-puzzles)
+* [Airplane Challenge](#airplane-challenge)
+  * [Known Bugs](#known-bugs)
+  * [Hints](#hints)
+  * [Adding Extra Features](#adding-extra-features)
+* [Milestones](#milestones)
+  * [Milestone 1](#milestone-1)
+  * [Milestone 2](#milestone-2)
+  * [Milestone 3](#milestone-3)
+* [Grading](#grading)
+  * [Computational Thinking](#computational-thinking)
+  * [Computing, Programming and Practice](#computing-programming-and-practice)
+  * [Skills of a Student](#skills-of-a-student)
+* [Getting Help](#getting-help)
 
 ## Setup your repository
 
