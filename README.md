@@ -40,7 +40,7 @@ driving simulator to fix and implement a Flying Simulator.
 Sign up for the project repository here:
 [https://classroom.github.com/a/bfecw3MF](https://classroom.github.com/a/bfecw3MF)
 
-The Game Dev Piazza is here: [piazza.com/chadwickschool.org/fall2020/bdf3](piazza.com/chadwickschool.org/fall2020/bdf3)
+The Game Dev Piazza is here: [piazza.com/chadwickschool.org/fall2020/bdf3](https://piazza.com/chadwickschool.org/fall2020/bdf3)
 
 After your repository has initialized it, clone it to your computer. I recommend
 putting it in your `ap-csp` directory.
