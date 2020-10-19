@@ -256,7 +256,57 @@ This Ed Puzzle assumes you are not using GitHub, you should skip to 3:30
 
 ## Airplane Challenge
 
+In addition to the `Driving Simulator` Unity project, there is also an `Airplane
+Challenege` Unity project. Add this to Unity Hub the same way you added the
+`Driving Simulator`.
 
+This project is full of bugs that you must find and fix using what you learned
+while implementing the `Driving Simulator`.
+
+Within the project, there is a directory called `Example Video` which contains a
+movie showing what the `Airplane Challenge` should look like to receive a score
+of Proficient in the Computional Thinking category.
+
+### Known Bugs
+
+* The plane is going backward rather than forward
+* The planes default speed is *WAAAY* too fast
+* The plane rotates up automatically, make the plane rotate when the player
+  presses up / down
+* The plane camera does not follow the plane
+* The propeller is not spinning (You may need to search the web to find ways to
+  accomplish this.
+
+### Hints
+
+* Make the plane go forward
+  - Hint: Vector3.back makes an object move backwards, Vector3.forward makes it
+    go forwards
+* Slow the plane down to a manageable speed
+  - Hint: If you multiply a value by Time.deltaTime, it will change it from
+    1x/frame to 1x/second
+* Make the plane tilt only if the user presses the up/down arrows
+  - Hint: In PlaneController.cs, in Update(), the verticalInput value is
+    assigned, but it’s never actually used in the Rotate() call
+* Reposition it so it’s beside the plane
+  - Hint: For the camera’s position, try X=30, Y=0, Z=10 and for the camera’s
+    rotation, try X=0, Y=-90, Z=0
+* Make the camera follow the plane
+  - Hint: In FollowPlane.cs, neither the plane nor offset variables are assigned
+    a value - assign the plane variable in the camera’s inspector and assign the
+    offset = new Vector3(30, 0, 10) in the code
+* Bonus - Make the camera follow the plane
+  - Hint: There is a “Propeller” child object of the plane - you should create a
+    new “SpinPropellerX.cs” script and make it rotate every frame around the Z
+    axis.
+
+### Adding Extra Features
+
+To receive a score of Advanced in the Computational Thinking category, you must
+implement a feature of your choosing. This could be to add sound, add additional
+obstacles, create additional player controls such as a barrel roll or firing
+bullets. Be sure to ask if your feature meets the critera of "Advanced" before
+implementing it. This should be done on Piazza.
 
 ## Milestones
 
@@ -307,8 +357,9 @@ submitted.
 
 In this assignment, you must demonstrate a basic understanding of C# and Unity
 as well as the ability to apply what you've learned during the Driving Simulator
-videos to the Flying Simulator Challenge. To receive Advanced marks, student must
-go above and beyond the Challenge by adding in their own personal customizations.
+videos to the Flying Simulator Challenge. To receive Advanced marks, student
+must go above and beyond the Challenge by adding in their own personal
+customizations.
 
 | Advanced                                                                                                                                                                                                           | Proficient                                                | Basic                                          | Below Basic                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------|-------------------------------------------------|
@@ -320,7 +371,8 @@ go above and beyond the Challenge by adding in their own personal customizations
 
 ### Computing, Programming and Practice
 
-Demonstrate how you tested your assignment, write comments, and provide well written commits.
+Demonstrate how you tested your assignment, write comments, and provide well
+written commits.
 
 | Advanced                                                                                                                                       | Proficient                                                                                       | Basic                                                                                                                   | Below Basic                                                                    |
 |------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
