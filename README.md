@@ -341,7 +341,7 @@ implementing it. This should be done on Piazza.
 
 ### Milestone 1
 
-Complete Part 1
+Complete Part 1 of the Driving Simulator EdPuzzles
 
 Due Date: Monday October 26th @ 8AM
 
@@ -355,7 +355,7 @@ All code that you would like to count toward your evaluation should be part of a
 
 ### Milestone 2
 
-Completed Parts 2 - 5
+Completed Parts 2 - 5 of the Driving Simulator EdPuzzles
 
 Due Date: Thursday October 28th @ 8AM
 
